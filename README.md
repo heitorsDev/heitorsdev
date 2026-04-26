@@ -1,30 +1,106 @@
-# Hi 👋, I'm Heitor Santos
+# 👋 Hi, I'm Heitor Santos
 
-### FullStack JS developer
-### FIRST Alumni and Mentor (FTC24556, FRC10190, FRC5800)
+### FullStack JavaScript Developer
 
-- 🔭 I'm currently working on **A AI agent for Poker analytics**
+FIRST Alumni & Mentor (FTC24556, FRC10190, FRC5800)
 
-- 🌱 I'm currently learning **Python for AI**
+---
 
-- 🤝 I'm looking for help with **learning system design**
+## 🚀 About Me
 
-- 💬 Ask me about **Node JS, Express, MongoDB, FRC WPILib and FTC SDK**
+* 🔭 Working on: **AI agent for Poker analytics**
+* 🌱 Learning: **Python for AI & Machine Learning**
+* 🤝 Looking for help with: **System Design**
+* 💬 Ask me about: **Node.js, Express, MongoDB, FRC WPILib, FTC SDK**
+* 📫 Contact: **[heitorhilles@gmail.com](mailto:heitorhilles@gmail.com)**
 
-- 📫 How to reach me **heitorhilles@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/heitorsDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="heitorsDev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/heitor-hillesheim-dos-santos-220931374/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/heitor-hillesheim-dos-santos-220931374/" height="30" width="40" /></a>
+## 🌐 Connect with me
+
+<p align="center">
+  <a href="https://github.com/heitorsDev">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/heitor-hillesheim-dos-santos-220931374/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heitorsDev&show_icons=true&locale=en&layout=compact" alt="heitorsDev" /></p>
+## 🧠 Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heitorsDev&show_icons=true&locale=en" alt="heitorsDev" /></p>
+### 💻 Backend
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heitorsDev&" alt="heitorsDev" /></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+<p align="center">
+  Node.js, Express — APIs REST, autenticação, arquitetura backend
+</p>
 
+---
+
+### 🌐 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css" />
+</p>
+<p align="center">
+  React, TypeScript, JavaScript — interfaces modernas e responsivas
+</p>
+
+---
+
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+</p>
+<p align="center">
+  MongoDB, PostgreSQL — modelagem de dados e performance
+</p>
+
+---
+
+### ⚙️ Tools & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,postman" />
+</p>
+<p align="center">
+  Git, Postman — versionamento e testes de API
+</p>
+
+---
+
+### 🤖 Other Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,spring,arduino,androidstudio" />
+</p>
+<p align="center">
+  Python (AI), Java & Spring, Arduino, Android Studio
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=heitorsDev&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heitorsDev" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heitorsDev&layout=compact" />
+</p>
+
+---
+
+
+---
