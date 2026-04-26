@@ -37,7 +37,7 @@ FIRST Alumni & Mentor (FTC24556, FRC10190, FRC5800)
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 <p align="center">
-  Node.js, Express — APIs REST, autenticação, arquitetura backend
+  Node.js, Express
 </p>
 
 ---
@@ -48,7 +48,7 @@ FIRST Alumni & Mentor (FTC24556, FRC10190, FRC5800)
   <img src="https://skillicons.dev/icons?i=react,ts,js,html,css" />
 </p>
 <p align="center">
-  React, TypeScript, JavaScript — interfaces modernas e responsivas
+  React, TypeScript, JavaScript
 </p>
 
 ---
@@ -59,7 +59,7 @@ FIRST Alumni & Mentor (FTC24556, FRC10190, FRC5800)
   <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
 </p>
 <p align="center">
-  MongoDB, PostgreSQL — modelagem de dados e performance
+  MongoDB, PostgreSQL
 </p>
 
 ---
@@ -70,7 +70,7 @@ FIRST Alumni & Mentor (FTC24556, FRC10190, FRC5800)
   <img src="https://skillicons.dev/icons?i=git,postman" />
 </p>
 <p align="center">
-  Git, Postman — versionamento e testes de API
+  Git, Postman
 </p>
 
 ---
