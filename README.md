@@ -3,8 +3,6 @@
 ### FullStack JS developer
 ### FIRST Alumni and Mentor (FTC24556, FRC10190, FRC5800)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heitorsDev" alt="heitorsDev" /></a> </p>
-
 - 🔭 I'm currently working on **A AI agent for Poker analytics**
 
 - 🌱 I'm currently learning **Python for AI**
