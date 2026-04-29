@@ -34,7 +34,7 @@ FIRST Alumni & Mentor (FTC24556, FRC10190, FRC5800)
 ### 💻 Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
 </p>
 <p align="center">
   Node.js, Express
