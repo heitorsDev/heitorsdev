@@ -48,7 +48,7 @@ FIRST Alumni & Mentor (FTC24556, FRC10190, FRC5800)
   <img src="https://skillicons.dev/icons?i=react,ts,js,html,css" />
 </p>
 <p align="center">
-  React, TypeScript, JavaScript
+  React, TypeScript, JavaScript, Python
 </p>
 
 ---
