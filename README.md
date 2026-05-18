@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Heitor Santos
 
-### FullStack JavaScript Developer
+### FullStack Developer
 
-FIRST Alumni & Mentor (FTC24556, FRC10190, FRC5800)
+FIRST Alumni & Mentor (FTC24557, FRC10190, FRC5800)
 
 ---
 
